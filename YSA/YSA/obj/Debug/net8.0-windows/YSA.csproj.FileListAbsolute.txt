@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\YSA\YSA\YSA\bin\Debug\net8.0-windows\YSA.exe
+C:\Users\PC\Desktop\YSA\YSA\YSA\bin\Debug\net8.0-windows\YSA.deps.json
+C:\Users\PC\Desktop\YSA\YSA\YSA\bin\Debug\net8.0-windows\YSA.runtimeconfig.json
+C:\Users\PC\Desktop\YSA\YSA\YSA\bin\Debug\net8.0-windows\YSA.dll
+C:\Users\PC\Desktop\YSA\YSA\YSA\bin\Debug\net8.0-windows\YSA.pdb
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\YSA.Form1.resources
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\YSA.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\YSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\YSA.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\YSA.AssemblyInfo.cs
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\YSA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\YSA.dll
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\refint\YSA.dll
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\YSA.pdb
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\YSA.genruntimeconfig.cache
+C:\Users\PC\Desktop\YSA\YSA\YSA\obj\Debug\net8.0-windows\ref\YSA.dll
